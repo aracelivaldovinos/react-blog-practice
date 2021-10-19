@@ -13,73 +13,10 @@
       "id": 2
     },
     {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "id": 12
-    },
-    {
-      "id": 13
-    },
-    {
       "title": "The party",
       "body": "was great!",
       "author": "elvira",
-      "id": 14
-    },
-    {
-      "title": "The party ",
-      "body": "was great!",
-      "author": "elvira",
-      "id": 15
-    },
-    {
-      "title": "test",
-      "body": "testing ",
-      "author": "elvira",
-      "id": 16
-    },
-    {
-      "title": "testing ",
-      "body": "testing ",
-      "author": "elvira",
-      "id": 17
-    },
-    {
-      "title": "testing ",
-      "body": "testing 3",
-      "author": "cher",
-      "id": 18
-    },
-    {
-      "title": "testing title",
-      "body": "testing body",
-      "author": "elvira",
-      "id": 19
+      "id": 3
     }
   ]
 }
