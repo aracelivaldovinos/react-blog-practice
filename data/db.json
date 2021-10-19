@@ -74,6 +74,12 @@
       "body": "testing 3",
       "author": "cher",
       "id": 18
+    },
+    {
+      "title": "testing title",
+      "body": "testing body",
+      "author": "elvira",
+      "id": 19
     }
   ]
 }
